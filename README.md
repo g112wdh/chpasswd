@@ -4,7 +4,7 @@
 
 1. 把要修改的机器列表放到 node.list文件中,每个机器一行
 
-2. 修改my.config,(不要用引号去把key或者value因起来，这个不是yaml)：
+2. 修改my.config,(不要用引号去把key或者value引起来，这个不是yaml)：
 
    ssh：就是当前执行的ssh
 
